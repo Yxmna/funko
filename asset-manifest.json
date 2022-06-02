@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/funko/static/css/main.9c6bd19d.css",
+    "main.css": "/funko/static/css/main.1d35f95b.css",
     "main.js": "/funko/static/js/main.d518e5b2.js",
     "static/media/ttnorms-bold-webfont.woff2": "/funko/static/media/ttnorms-bold-webfont.ffc81f17f0ae1dde7891.woff2",
     "static/media/ttnorms-default-regular-webfont.woff2": "/funko/static/media/ttnorms-default-regular-webfont.f60f95aeb32b9134110d.woff2",
     "static/media/ttnorms-medium-webfont.woff2": "/funko/static/media/ttnorms-medium-webfont.938be378f9dc8ed349ec.woff2",
     "static/media/ttnorms-black-webfont.woff2": "/funko/static/media/ttnorms-black-webfont.0938f70aaf7c697f4626.woff2",
     "index.html": "/funko/index.html",
-    "main.9c6bd19d.css.map": "/funko/static/css/main.9c6bd19d.css.map",
+    "main.1d35f95b.css.map": "/funko/static/css/main.1d35f95b.css.map",
     "main.d518e5b2.js.map": "/funko/static/js/main.d518e5b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c6bd19d.css",
+    "static/css/main.1d35f95b.css",
     "static/js/main.d518e5b2.js"
   ]
 }
